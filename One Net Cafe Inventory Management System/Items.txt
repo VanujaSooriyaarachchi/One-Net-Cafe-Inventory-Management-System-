@@ -1,0 +1,18 @@
+Keyboard, Singer, 1000, 5
+Mouse, Singer, 500, 10
+Speaker, Singer, 1500, 6
+Monitor, Abans, 100000, 5
+RAM, Abans, 8000, 5
+Graphic Card, Abans, 60000, 7
+VGA Cable, Softlogic, 2000, 7
+MotherBoard, Softlogic, 50000, 10
+Casing, Softlogic, 5000, 10
+UPS, Nanotech, 8000, 5
+HardDisk, Nanotech, 9000, 8
+PenDrive, Nanotech, 3000, 20
+Processor, Chama Computers, 100000, 7
+CoolingFan, Chama Computers, 20000, 10
+Laptop, Chama Computers, 400000, 5
+SSD, LibertyPlaza, 15000, 6
+ComputerTable, LibertyPlaza, 7000, 4
+RGB, LibertyPlaza, 3500, 20
